@@ -35,7 +35,6 @@ jobs:
         
       - name: Print Happy Message for CI finish
         run: echo "CI Pipeline part Finished successfulfly!"
-          aws-region           : ${{ env.AWS_REGION_NAME }}
-           
+                     
       
    
