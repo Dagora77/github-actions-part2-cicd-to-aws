@@ -61,7 +61,7 @@ jobs:
       
     
     - name: Print Happy Message for CI finish
-      run: echo "CD Pipeline part Finished successfully!"  
+      run: echo "CD Pipeline part Finished successfully!!"  
         
         
         
